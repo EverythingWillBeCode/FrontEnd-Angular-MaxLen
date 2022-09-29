@@ -18,7 +18,7 @@
 
 
  "nombre": "Maximiliano Lencina",
- "titulo": "Full Stack Developer Junior",
+ "titulo": "Full Stack Developer Senior",
  "perfil":"assets/img/perfil.jpg",
  "portada":"assets/img/portada.jpg",
 
@@ -47,7 +47,7 @@
 
  "nombreEdu2":"Educ.ar",
  "imgEdu2":"assets/img/educar.jpg",
- "descrEdu2":"Seguridad informática",
+ "descrEdu2":"Seguridad Informática",
  "dEdu2":"Descripción: Hoy en día las computadoras están presentes en un montón de áreas de nuestra sociedad y son cada vez más imprescindibles para la realización de muchas tareas. Las personas confiamos y volcamos nuestras vidas en estas tecnologías: nos comunicamos, enviamos y compartimos todo tipo de contenido, pagamos servicios, entre tantas cosas más. Como usuarios estamos expuestos a innumerables amenazas y en este curso vamos a conocer cuáles son los riesgos, cómo evitarlos y reconocerlos para mejorar nuestra privacidad y seguridad en internet.",
  "cont2":"Contenidos aprendidos: Phishing, contraseñas seguras, privacidad en redes sociales, Malware, permisos de las aplicaciones.",
  "fechaedu2":"Fecha de realización: Septiembre 2022 - Octubre 2022",
@@ -109,7 +109,7 @@
  "skill7":"Git/Github",
  "skill7porc":"90%",
  "skill8":"Angular",
- "skill8porc":"80%",
+ "skill8porc":"95%",
  "skill9":"Creatividad",
  "skill9porc":"90%",
  "skill10":"Puntualidad",
